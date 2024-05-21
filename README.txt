@@ -1,14 +1,12 @@
 List of all files you submitted:
 
-<answer here>
-
 Note the platform you used for development (Windows, OS X, ...):
 
 MacOS
 
 Provide instructions on how to compile and run your code, especially if you used a nonstandard Makefile, or you are one of those hackers who insists on doing things differently.
 
-<answer here>
+Compile using Xcode
 
 Indicate if you met all problem set requirements (more importantly, let us know where your bugs are and what you did to try to eliminate the bugs; we want to give you as much partial credit as we can).
 
